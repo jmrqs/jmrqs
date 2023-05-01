@@ -1,4 +1,4 @@
-# Hi there! I'm Joyce, welcome to my GitHub!
+# Hi there! Welcome to my GitHub!
 
 ## Technologies I love and use
 
